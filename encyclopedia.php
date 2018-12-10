@@ -47,6 +47,7 @@ session_start();
             border: 1px solid #1d2124;
             padding: 0.5%;
             margin: 2% 0% 2% 0%;
+            font-family: monospace;
 
         }
 
@@ -90,7 +91,7 @@ session_start();
 
             $i = 0;
             foreach ($bird_arr as $bird_record){
-                $style = "background-image: url(\"img/{$bird_record['img']}\");";
+                $style = "background-image: url(\"{$bird_record['img']}\");";
                 echo "<div class='bird_record' onclick='bird_page({$i})' >";
                 echo "<div class='bird_thumb' style='$style'></div>";
                 echo "<div class='bird_name'> {$bird_record['name']} </div></div>";

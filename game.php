@@ -108,8 +108,7 @@ session_start();
         console.log("correct answer is on button"+random_button_index);
 
         $('#button_'+random_button_index).html(bird_list[new_ref].name);
-        $('#app').css("background-image", "url(img/" + bird_list[new_ref].img+  ")");
-
+        $('#app').css("background-image", "url(" + bird_list[new_ref].img +  ")");
 
 
         var other_answers = get_random_numbers(4,bird_list.length, [new_ref]);

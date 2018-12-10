@@ -25,6 +25,7 @@ session_start();
             padding: 1%;
             text-align: center;
             font-size: 3vw;
+            font-family: monospace;
         }
         #desc{
             color: white;
@@ -72,7 +73,7 @@ session_start();
     $bird_arr = json_decode($file, true);
     $image_url = $bird_arr[$_GET['id']]['img'];
 ?>
-<div id="app" style="background-image: <?php echo "url('img/{$image_url}')"?>">
+<div id="app" style="background-image: <?php echo "url('{$image_url}')"?>">
     <a href="encyclopedia.php" id="to-menu">enc</a>
     <div id="name">
         <?php

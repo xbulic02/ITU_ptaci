@@ -148,12 +148,12 @@ session_start();
             </tr>
             <tr>
                 <td>
-                    <a class="button">Info</a>
+                    <a class="button" href="info.php">Info</a>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <a class="button">Odhlásit</a>
+                    <a class="button" href="logout.php">Odhlásit</a>
                 </td>
             </tr>
 

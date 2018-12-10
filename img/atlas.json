@@ -16,7 +16,7 @@
 	"desc": "Jde o menšího ptáčka, který má krémově kropenatou hruď a hnědá záda i křídla. Od jiných zpěvných ptáků jej rozeznáte díky drobnému, trošku zahnutému zobáku a narůžovělým nohám. Drozd váží od 50 do 100 gramů a jeho velikost se pohybuje okolo 20 centimetrů. "
 }, {
 	"name": "Holub doupňák",
-	"img": "https://i.imgur.com/kkuu0U7.jpg,
+	"img": "https://i.imgur.com/kkuu0U7.jpg",
 	"desc": "Dorůstá délky 32–34 cm, v rozpětí křídel měří 63–69 cm a váží 250–300 g. Zbarven je převážně šedě s tmavými letkami a koncovou ocasní páskou, vínovou hrudí a žlutým zobákem. Od jiných druhů holubů se liší zelenavě měnivou skvrnou na boku krku a jen částečnými černými křídelními páskami. Obě pohlaví jsou zbarvena stejně, mladí ptáci postrádají zelenou skvrnu na krku.   "
 }, {
 	"name": "Hýl obecný",
@@ -29,7 +29,7 @@
 }, {
 	"name": "Kos černý",
 	"img": "https://i.imgur.com/2gJyBcL.jpg",
-	"desc": ""
+	"desc": "Kos černý je pták žijící v celé Evropě a v jižní Asii, který byl introdukován i do Austrálie a na Nový Zéland. Díky své přizpůsobivosti se adaptoval na život v blízkosti člověka a úspěšně žije a hnízdí i v těsném sousedství lidských sídel. Samci jsou nepřehlédnutelní svým charakteristickým černým peřím a žlutým až oranžovým zobákem, upozorňují na sebe také melodickým zpěvem."
 }, {
 	"name": "Orel skalní",
 	"img": "https://i.imgur.com/KS82AmM.jpg",
@@ -37,11 +37,11 @@
 }, {
 	"name": "Pěnkava obecná",
 	"img": "https://i.imgur.com/axSrCZ8.jpg",
-	"desc": "Pěnkava obecná dorůstá délky 14 – 16 cm, v rozpětí křídel měří 24,5 – 28,5 cm a váží 18 – 29 g. Má poměrně štíhlé tělo, dlouhý ocas a krátký silný zobák typický pro semenožravé ptáky. Samec je díky svému charakteristickému zbarvení naprosto nezaměnitelný. Ve svatebním šatě má jasně hnědočervený hřbet, růžovou spodinu těla, modrošedé temeno, šíji a zobák a olivově zelený kostřec. V letu i v klidu jsou u obou pohlaví patrné také dva výrazné bílé pruhy na křídle a ocase. V prostém šatě je samec o něco méně výrazný a má poněkud bledší opeření, stále je však velmi charakteristicky zbarven. Na podzim se většina pěnkav vydává na jih Evropy. Starší samci však přezimují u nás, mladší přilétají z jihu již v předjaří."
+	"desc": "Pěnkava obecná dorůstá délky 14 – 16 cm, v rozpětí křídel měří 24,5 – 28,5 cm a váží 18 – 29 g. Má poměrně štíhlé tělo, dlouhý ocas a krátký silný zobák typický pro semenožravé ptáky. Samec je díky svému charakteristickému zbarvení naprosto nezaměnitelný. Ve svatebním šatě má jasně hnědočervený hřbet, růžovou spodinu těla, modrošedé temeno, šíji a zobák a olivově zelený kostřec."
 }, {
 	"name": "Poštolka obecná",
 	"img": "https://i.imgur.com/46g8dD7.jpg",
-	"desc": "Poštolka obecná je drobný sokolovitý dravec. Hmotnost samce dosahuje v průměru cca 180 g a samice 220 g. Rozpětí křídel se pohybuje mezi 68–80 cm. Jako všichni sokolovití mají poštolky výrazně zašpičatělá křídla a dlouhý ocas. Výrazným znakem je červenohnědě zbarvený hřbet u samců s  tmavými skvrnami, u samic a mláďat s tmavými příčnými pruhy nebo vlnkami. Ruční letky jsou tmavé. Spodina těla je světlejší s podobnými tmavými skvrnami jako na hřbetě u mláďat je výrazné podélné skvrnění. Samci mají temeno a týl hlavy šedé a bělavé hrdlo lemuje výrazný černý vous na líci. Šedý mají i ocas většinou bez pruhů, jen na konci mají širokou tmavou pásku. Samice a mláďata mají ocas hnědý s tmavým příčným pruhováním."
+	"desc": "Poštolka obecná je drobný sokolovitý dravec. Hmotnost samce dosahuje v průměru cca 180 g a samice 220 g. Rozpětí křídel se pohybuje mezi 68–80 cm. Jako všichni sokolovití mají poštolky výrazně zašpičatělá křídla a dlouhý ocas. Výrazným znakem je červenohnědě zbarvený hřbet u samců s  tmavými skvrnami, u samic a mláďat s tmavými příčnými pruhy nebo vlnkami. Ruční letky jsou tmavé."
 }, {
 	"name": "Puštík obecný",
 	"img": "https://i.imgur.com/VmLtU5H.jpg",

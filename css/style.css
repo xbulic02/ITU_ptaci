@@ -110,19 +110,24 @@ body{
 }
 
 #to-menu{
+    -webkit-filter: drop-shadow(1px 1px 1px black)
+                    drop-shadow(-1px -1px 1px black);
+    filter: drop-shadow(1px 1px 1px black)
+            drop-shadow(-1px -1px 1px black);
+
     position: absolute;
-    background-image: url("../menu.png");
+    background-image: url("../back.png");
     background-size: cover;
     display: block;
     margin: 2%;
     text-indent: -9999px;
     height: 8%;
-    width: 5%;
+    width: 10%;
 }
 
 #app
 {
-    background-image: url("../img/kos.jpg");
+    background-image: url("https://i.imgur.com/2gJyBcL.jpg");
     background-size: cover;
     width: 100vw;
     height: 56.25vw; /* 100/56.25 = 1.778 */
