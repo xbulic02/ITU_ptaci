@@ -1,57 +1,61 @@
 [{
 	"name": "Čáp bílý",
-	"img": "./cap_bily.jpg",
+	"img": "https://i.imgur.com/kR4j9ey.jpg",
 	"desc": "Velký, 1m vysoký pták. Většina těla je bílá, jen konce křídel a zadní část jsou černé. Zobák je červený u mladých ptáků černý. Krk je v letu natažen rovně dopředu. Hnízdním prostředím čápa bílého jsou rovinatá otevřená krajina s loukami, potůčky a vodními nádržemi. Původně obývali čápi bílí jen nížiny, později osídlili i střední a vyšší polohy. Je tažný, zimuje jižně od Sahary. Na hnízdiště přilétá na přelomu března a dubna."
 }, {
 	"name": "Červenka obecná",
-	"img": "./cervenka_obecna.jpg",
+	"img": "https://i.imgur.com/NhqqMvi.jpg",
 	"desc": "Červenka obecná má délku těla 12–14 cm, rozpětí křídel 22 cm a hmotnost: 16–18 g. Má kulovité tělo s dlouhým ocasem a končetinami a krátkými křídly a zašpičatělým zobákem. Svrchu je světle hnědá, zespodu modrošedá a bílá, na hrdle a na obličeji má nápadnou rezavočervenou náprsenku. Oči a zobák jsou černé, končetiny šedé."
 }, {
 	"name": "Datel černý",
-	"img": "./datel_cerny.jpg",
+	"img": "https://i.imgur.com/Rf2x8QO.jpg",
 	"desc": "Největší evropský šplhavec. Dorůstá délky 40–46 cm, v rozpětí křídel měří 67–73 cm a dosahuje hmotnosti 250–370 g. Nezaměnitelný, celý černý, s bělavým okem a zobákem. Samec má červené temeno, samice pouze červenou skvrnu v týlu."
 }, {
 	"name": "Drozd zpěvný",
-	"img": "./drozd_zpevny.jpg",
+	"img": "https://i.imgur.com/qiKzcLp.jpg",
 	"desc": "Jde o menšího ptáčka, který má krémově kropenatou hruď a hnědá záda i křídla. Od jiných zpěvných ptáků jej rozeznáte díky drobnému, trošku zahnutému zobáku a narůžovělým nohám. Drozd váží od 50 do 100 gramů a jeho velikost se pohybuje okolo 20 centimetrů. "
 }, {
 	"name": "Holub doupňák",
-	"img": "./holub_doupnak.jpg",
+	"img": "https://i.imgur.com/kkuu0U7.jpg,
 	"desc": "Dorůstá délky 32–34 cm, v rozpětí křídel měří 63–69 cm a váží 250–300 g. Zbarven je převážně šedě s tmavými letkami a koncovou ocasní páskou, vínovou hrudí a žlutým zobákem. Od jiných druhů holubů se liší zelenavě měnivou skvrnou na boku krku a jen částečnými černými křídelními páskami. Obě pohlaví jsou zbarvena stejně, mladí ptáci postrádají zelenou skvrnu na krku.   "
 }, {
 	"name": "Hýl obecný",
-	"img": "./hyl_obecny.jpg",
+	"img": "https://i.imgur.com/ZIeRvba.jpg",
 	"desc": "Hýl obecný je zavalitý pták s šedým hřbetem, černobílými křídly, černým ocasem, temenem hlavy a nápadně silným zobákem, bílým kostřecem a hnědočernými končetinami. Samec má břišní stranu těla červenou, samice šedohnědou. Na zimu migrují směrem na jih pouze populace ze severních oblastí."
 }, {
 	"name": "Konipas bílý",
-	"img": "./konipas_bily.jpg",
+	"img": "https://i.imgur.com/64qunNK.jpg",
 	"desc": "Konipas bílý je černobíle opeřený, samec ve svatebním šatě má černé hrdlo, v prostém šatě má hrdlo bílé, samice má na hlavě černou kresbu se šedým peřím. Záda jsou šedivá, břicho je bílé. Běhá po zemi, potřásá ocáskem a létá v plochých vlnách."
 }, {
+	"name": "Kos černý",
+	"img": "https://i.imgur.com/2gJyBcL.jpg",
+	"desc": ""
+}, {
 	"name": "Orel skalní",
-	"img": "./orel_skalni.jpg",
+	"img": "https://i.imgur.com/KS82AmM.jpg",
 	"desc": "Délka těla u Orla skalníjo se pohybuje  od 75 do 90 cm. Váha těla kolísá v rozmezí 2 840 – 4 550 g u samců, od 3 630 do 6 665 g  u samic. Míry v rozpětí se pohybují od 190 do 227 cm. Dospělí ptáci jsou většinou jednobarevně hnědí se světlejším žlutavým zabarvením temene, týlu a středních křídelních krovek.  "
 }, {
 	"name": "Pěnkava obecná",
-	"img": "./penkava_obecna.jpg",
+	"img": "https://i.imgur.com/axSrCZ8.jpg",
 	"desc": "Pěnkava obecná dorůstá délky 14 – 16 cm, v rozpětí křídel měří 24,5 – 28,5 cm a váží 18 – 29 g. Má poměrně štíhlé tělo, dlouhý ocas a krátký silný zobák typický pro semenožravé ptáky. Samec je díky svému charakteristickému zbarvení naprosto nezaměnitelný. Ve svatebním šatě má jasně hnědočervený hřbet, růžovou spodinu těla, modrošedé temeno, šíji a zobák a olivově zelený kostřec. V letu i v klidu jsou u obou pohlaví patrné také dva výrazné bílé pruhy na křídle a ocase. V prostém šatě je samec o něco méně výrazný a má poněkud bledší opeření, stále je však velmi charakteristicky zbarven. Na podzim se většina pěnkav vydává na jih Evropy. Starší samci však přezimují u nás, mladší přilétají z jihu již v předjaří."
 }, {
 	"name": "Poštolka obecná",
-	"img": "./postolka_obecna.jpg",
+	"img": "https://i.imgur.com/46g8dD7.jpg",
 	"desc": "Poštolka obecná je drobný sokolovitý dravec. Hmotnost samce dosahuje v průměru cca 180 g a samice 220 g. Rozpětí křídel se pohybuje mezi 68–80 cm. Jako všichni sokolovití mají poštolky výrazně zašpičatělá křídla a dlouhý ocas. Výrazným znakem je červenohnědě zbarvený hřbet u samců s  tmavými skvrnami, u samic a mláďat s tmavými příčnými pruhy nebo vlnkami. Ruční letky jsou tmavé. Spodina těla je světlejší s podobnými tmavými skvrnami jako na hřbetě u mláďat je výrazné podélné skvrnění. Samci mají temeno a týl hlavy šedé a bělavé hrdlo lemuje výrazný černý vous na líci. Šedý mají i ocas většinou bez pruhů, jen na konci mají širokou tmavou pásku. Samice a mláďata mají ocas hnědý s tmavým příčným pruhováním."
 }, {
 	"name": "Puštík obecný",
-	"img": "./pustik_obecny.jpg",
+	"img": "https://i.imgur.com/VmLtU5H.jpg",
 	"desc": "Nenápadná sova dorůstající 36 až 43 cm. Má mohutnou kulatou hlavu a okrouhlý obličej se závojem a hnědočernýma očima. Nohy jsou krátké a opeřené až po prsty, křídla mají rozpětí 81 až 96 cm, široká a zaoblená, ocas krátký. Zbarvení je velmi variabilní, základní barva se pohybuje od šedé přes různé odstíny hnědé až po rezavou, s tmavým žíháním."
 }, {
 	"name": "Skřivan lesní",
-	"img": "./skrivan_lesni.jpg",
+	"img": "https://i.imgur.com/5vfhhfO.jpg",
 	"desc": "Skřivan lesní má délku těla 13,5–15 cm. Shora je hnědý, tmavě skvrnitý, spodinu má bílou, končetiny žlutavě hnědé a slabý zobák šedohnědý se světlejším kořenem. Na první pohled se podobá skřivanu polnímu, od kterého se liší následujícími znaky: ocas má bílou špičku (ne okraje), zadní okraj křídla není bílý, kresba křídla je kontrastní, široký krémový nadoční proužek sahá až do týla."
 }, {
 	"name": "Straka obecná",
-	"img": "./straka_obecna.jpg",
+	"img": "https://i.imgur.com/djVd7Ra.jpg",
 	"desc": "U Straky obecné jsou typické zřetelně oddělené černé a bílé plochy. Černá je hlava, horní část hřbetu, krk, vole, ocas, valná většina křídla. Bílá jsou prsa a břicho, lopatky, dolní část hřbetu, kostřec a vnitřní prapory ručních letek. Černé části křídel a rýdovací pera nejsou opravdu černá. Délka těla straky je 40-51 cm, ale 20-30 cm z toho je ocas. Rozpětí křídel je 52-60 cm. Váha kolísá mezi 150 až 240 g."
 }, {
 	"name": "Vrána černá",
-	"img": "./vrana_cerna.jpg",
+	"img": "https://i.imgur.com/1nZWjzc.jpg",
 	"desc": "Dorůstá délky 45–50 cm, v rozpětí křídel měří 90–100 cm a dosahuje hmotnosti 600-700 g. Peří má černé s modrým leskem, černého zbarvení jsou také končetiny a silný, u kořene opeřený, na konci mírně zakřivený zobák. V letu ji lze od ostatních krkavcovitých odlišit díky téměř rovnému konci ocasu."
 }]
