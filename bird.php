@@ -74,7 +74,7 @@ session_start();
     $image_url = $bird_arr[$_GET['id']]['img'];
 ?>
 <div id="app" style="background-image: <?php echo "url('{$image_url}')"?>">
-    <a href="encyclopedia.php" id="to-menu">enc</a>
+    <a href="encyclopedia.php" id="back">enc</a>
     <div id="name">
         <?php
         if ($_GET['id'] != 0){
@@ -98,3 +98,13 @@ session_start();
 </body>
 
 </html>
+<script type="application/javascript">
+    $(document).keyup(function (event) {
+        if (event.keyCode === 37){  //left arrow
+            document.getElementById('prev').click();
+        }
+        if (event.keyCode === 39){  //left arrow
+            document.getElementById('next').click();
+        }
+    });
+</script>

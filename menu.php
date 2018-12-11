@@ -1,5 +1,6 @@
 <? header("Content-Type: text/html; charset=UTF-8");?>
 <?php
+session_save_path("tmp/");
 session_start();
 ?>
 

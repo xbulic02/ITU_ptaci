@@ -1,5 +1,6 @@
 <? header("Content-Type: text/html; charset=UTF-8");?>
 <?php
+session_save_path("tmp/");
 session_start();
 ?>
 
@@ -81,7 +82,7 @@ session_start();
 
 <body>
 <div id="app">
-    <a href="menu.php" id="to-menu">Menu</a>
+    <a href="menu.php" id="back">Menu</a>
 
     <div id="result-box">
         <div id="result_container">

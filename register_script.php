@@ -1,7 +1,5 @@
 <?php
 require_once 'db_protect.php';
-session_start();
-
 
 $login = "'".$_POST['login']."'";
 
